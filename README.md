@@ -27,8 +27,6 @@ Student ve Class isimli iki sınıf oluşturun. Her bir sınıf için uygun veri
 
 ![image](https://github.com/user-attachments/assets/444d3dca-0208-4c89-b89e-7cbf8bf6cb0e)
 
-![image](https://github.com/user-attachments/assets/25f63ee2-f3de-4c25-b02e-460a24abdaea)
-
 **3) LINQ Sorgusu:**
 
 Öğrenciler ve sınıflar arasında group join işlemi yaparak, her sınıfın altında o sınıfa ait olan öğrencilerin listelendiği bir sonuç elde edin. 
